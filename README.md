@@ -24,6 +24,9 @@ By the end of this week-4, I am done with stage 1 and also read the first two th
 After getting a glance at the first stage and my week's plan I got an understanding that what should I have to practice more. I found loops, ranges, enum classes and lists to be challenging or the topics in which I will be invested for next weeks.
 I wish to do more stages by the end of the 5th week but 2nd stage has too many sections still I try my best to complete stage 2 by the end of week 5, and also will try to reach the final section of stage 3.
 
+## Week 5
+I completed the stage 2 code and also did some of the sections of stage 3 this week. 
+
 # Future Options-
 
 After completing this project I would love to get into some of the projects which are related to data structures as data structures are one most important concepts in programming so making a project using data structures with Kotlin will boost my skills. 
