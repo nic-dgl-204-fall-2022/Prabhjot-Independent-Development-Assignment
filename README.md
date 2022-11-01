@@ -25,11 +25,24 @@ After getting a glance at the first stage and my week's plan I got an understand
 I wish to do more stages by the end of the 5th week but 2nd stage has too many sections still I try my best to complete stage 2 by the end of week 5, and also will try to reach the final section of stage 3.
 
 ## Week 5
-My experience this week 
-The second stage of Unit Converter project was challenging and it took very long time to complete. I had almost given 12 to 15 hours in this week to complete this stage of the project.  It took time because it contained almost 28 sections including project code. Each section included theory part and coding part in which some was challenging and some was very easy. Standard input, type conversion, arithmetic operations, relational operators, getting substrings were challenging sections for me. Most of the time I got stuck in coding problems which was metered as hard then I had to again visit the theory part to solve that problem. To overcome these challenges I have some plans in next week (check next week’s Plan). 
 
-Although whatever challenges I fought to reach the final section (Work on Project- Let’s get metric) of the stage 2, it was completely worth it because I didn’t took much time to complete the final section. I think all the problems I solved in the previous sections and all the theory I read in the previous sections helped me immensely and boosted my skills to next level. After completing this section I wonder like how much I don’t know and how much things are important for me to know. 
+**My experience this week-**
 
+The second stage of the Unit Converter project was challenging and it took a very long time to complete. I had almost given 12 to 15 hours this week to complete this stage of the project.  It took time because it contained almost 28 sections including the project code. Each section included the theory part and coding part in which some were challenging and some were very easy. Standard input, type conversion, arithmetic operations, relational operators, and getting substrings were challenging sections for me. Most of the time I got stuck in coding problems (which were metered as hard) then I had to again visit the theory part to solve that problem. To overcome these challenges, I have some plans for next week (check next week’s Plan). 
+
+Although whatever challenges I fought to reach the final section (Work on Project- Let’s get metric) of stage 2, it was completely worth it because I didn’t take much time to complete the final section. I think all the problems I solved in the previous sections and all the theories I read in the previous sections helped me immensely in solving the final section of this stage. After completing this section, I wonder like how much I do not know and how many things are important for me to know.  
+
+**My progress this week-**
+
+This week I managed to complete stage 2 and started the 3rd stage (i.e., Distances). I [committed the code](https://github.com/nic-dgl-204-fall-2022/Prabhjot-Independent-Development-Assignment/blob/main/src/main/kotlin/stage2.kt) for stage 2 (Section- Work on project, Let’s get metric) in which I had to take a number input from the user. The number should be in kilometres and then I had to convert that number into meters by applying the required conversion formula for the kilometers digit. In the end, I had to print that converted meter number. For example, if a user inputs a number like 45 then the converted meter value is 4500 which will be shown to the user. To achieve this, I simply multiplied the user input number by 1000 using the arithmetic operator (i.e., *) and printed it with a string template. 
+
+Other than that, I have learnt a lot from the different sections of this stage. This stage allowed me to dive deeper into different basic but important programming concepts like operators (arithmetic, relational logical etc.), string basics & templates, type conversions etc. I wondered each time how hard a problem can be made with these basic concepts and every time I solve the problems (in the practice part) I felt I got more clarity to the theory part.  
+
+**Next Week’s Plan-**
+
+Last week I thought I will try to complete two stages this week but till now I had completed 2nd stage and am currently on the first two sections of 3rd stage. I think I was a bit slow this week because of stage 2 which was long & very time-consuming but will try to gain speed this week. I aim to finish two stages this week as these stages have fewer sections and I also hope to begin the final stage this week if the ‘work on project’ of the 3rd & 4th stages won’t take much time. 
+
+To overcome some of the challenges I faced (explained in ‘My experience this week’), I will be solving the ‘Optional problems to solve’ which is in each practice part of each section. It will increase my confidence in solving difficult problems and will definitely help me in the future stages of this project. 
 
 
 
