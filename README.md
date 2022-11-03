@@ -2,9 +2,9 @@
 
 For my independent development project, I will be creating the Unit Converter Project.
 
-# Reflection
+#  Week 4
 
-## Week 4
+## Reflection
 
 This week’s plan is to complete the first stage of the Unit Converter Project from JetBrains, i.e. Standard Output. I need to give more time studying the Standard Output & other stages. I also, have to review whatever I have learnt about Kotlin from this course because it will be helping me in the later stages of this project. This week, exploring the Standard Output can be called a challenge, but it is fun to me. 
 
@@ -24,7 +24,23 @@ By the end of this week-4, I am done with stage 1 and also read the first two th
 After getting a glance at the first stage and my week's plan I got an understanding that what should I have to practice more. I found loops, ranges, enum classes and lists to be challenging or the topics in which I will be invested for next weeks.
 I wish to do more stages by the end of the 5th week but 2nd stage has too many sections still I try my best to complete stage 2 by the end of week 5, and also will try to reach the final section of stage 3.
 
-## Week 5
+## Potential ideas
+
+Below are some potential ideas for the extension of Unit Converter Project. 
+
+- Currency Converter- It looks similar to Unit converter project as we have to multiply and divide the numbers change the unit and the currency. But while doing the unit conversion, the number with which we mutiply or divide to the conversing number remains always constant (like 4 km*1000 = 4500, 1000 will be constant) but in currency conversion that number always changes. Therefore, this project will be challenging for me.  
+
+- Calculator- A calculator looks simple project but I think to make it I will be implementing all the sills which I have learnt from this project like arithmetic operators for implementing calculation commands, if-else statements to tackle undefined values (like 445 divided by 0) etc. Moreover, I can add more things to it like adding sine and cosine calculating features, finding under-root and squre root values etc.
+
+- Finance Calculator- A project which can calculate home loan, personal loan or any other loans by taking input from the users like loan amount, interset rate, pay back time etc and the program should output that what the user have to pay every month & what is the toatal interset. 
+
+- Android App- An app which will contain currency converter, scintific calculator and the finance calculator with user interface and the app will be written with Kotlin language.
+
+- Android App with Graph- This will be the upgrade of the above android app which will show a graph when ever user will get the output in finance calculator. 
+
+# Week 5 
+
+## Reflection
 
 **My experience this week-**
 
@@ -44,14 +60,3 @@ Last week I thought I will try to complete two stages this week but till now I h
 
 To overcome some of the challenges I faced (explained in ‘My experience this week’), I will be solving the ‘Optional problems to solve’ which is in each practice part of each section. It will increase my confidence in solving difficult problems and will definitely help me in the future stages of this project. 
 
-
-
-# Future Options-
-
-After completing this project I would love to get into some of the projects which are related to data structures as data structures are one most important concepts in programming so making a project using data structures with Kotlin will boost my skills. 
-Some of the projects I selected are as below- 
-
--	[Connect Four](https://hyperskill.org/projects/202?track=18) – This project includes some of the data structures as written in its description, so it will definitely going to help.
--	[Minesweeper](https://hyperskill.org/projects/8?track=18)- This project will help me to understand Kotlin more deeply with object-oriented programming as this includes objects and classes in its first stage to learn. 
--	[Parking Lot](https://hyperskill.org/projects/75?track=18) 
--	[Watermark](https://hyperskill.org/projects/222?track=18)
