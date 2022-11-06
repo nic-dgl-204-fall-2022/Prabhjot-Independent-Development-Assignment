@@ -15,6 +15,15 @@ Challenge because to reach to the final stage of the project (i.e. Work on Proje
 
 The first stage of the project was easy and I barely took 30-35 minutes to complete this stage’s theoretical part. Some of the theory part I skipped which was very basic (in initial sections) and for some theory part, I had to pause & revise the previous notes (in final sections like literals & standard output). Though, solving the MCQ + coding problems in every practice part of sections took time which gave me great value for that time because, from those, I learnt a lot and also it gave me the opportunity to revise whatever I have learnt from this course till yet. 
 
+     fun stage1() {
+    println("145 centimeters is 1.45 meters\n" + 
+        "2 miles is 3.2187 kilometers\n" +
+        "5.5 inches is 139.7 millimeters\n" +
+        "12 degrees Celsius is 53.6 degrees Fahrenheit\n" +
+        "3 pounds is 1.360776 kilograms"
+)
+}
+
 **My Progress this week-**
 
 By the end of this week-4, I am done with stage 1 and also read the first two theory part of sections of stage 2. I [committed the code](https://github.com/nic-dgl-204-fall-2022/Prabhjot-Independent-Development-Assignment/blob/main/src/main/kotlin/stage1.kt) of stage 1 (Section- Work on project, Standard Output) in which I had to print the unit conversions lines for different physical quantities (like 145 centimetres is 1.45 meters). 
@@ -51,6 +60,13 @@ Although whatever challenges I fought to reach the final section (Work on Projec
 **My progress this week-**
 
 This week I managed to complete stage 2 and started the 3rd stage (i.e., Distances). I [committed the code](https://github.com/nic-dgl-204-fall-2022/Prabhjot-Independent-Development-Assignment/blob/main/src/main/kotlin/stage2.kt) for stage 2 (Section- Work on project, Let’s get metric) in which I had to take a number input from the user. The number should be in kilometres and then I had to convert that number into meters by applying the required conversion formula for the kilometers digit. In the end, I had to print that converted meter number. For example, if a user inputs a number like 45 then the converted meter value is 4500 which will be shown to the user. To achieve this, I simply multiplied the user input number by 1000 using the arithmetic operator (i.e., *) and printed it with a string template. 
+
+
+         fun main() {
+               println("Enter a number of kilometers: ")
+               val kilometers = readLine()!!.toInt()
+               println("$kilometers kilometers is ${1000 * kilometers} meters")
+               }
 
 Other than that, I have learnt a lot from the different sections of this stage. This stage allowed me to dive deeper into different basic but important programming concepts like operators (arithmetic, relational logical etc.), string basics & templates, type conversions etc. I wondered each time how hard a problem can be made with these basic concepts and every time I solve the problems (in the practice part) I felt I got more clarity to the theory part.  
 
