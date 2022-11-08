@@ -70,9 +70,20 @@ This week I managed to complete stage 2 and started the 3rd stage (i.e., Distanc
 
 Other than that, I have learnt a lot from the different sections of this stage. This stage allowed me to dive deeper into different basic but important programming concepts like operators (arithmetic, relational logical etc.), string basics & templates, type conversions etc. I wondered each time how hard a problem can be made with these basic concepts and every time I solve the problems (in the practice part) I felt I got more clarity to the theory part.  
 
-**Next Week’s Plan-**
+# Week 6
 
 Last week I thought I will try to complete two stages this week but till now I had completed 2nd stage and am currently on the first two sections of 3rd stage. I think I was a bit slow this week because of stage 2 which was long & very time-consuming but will try to gain speed this week. I aim to finish two stages this week as these stages have fewer sections and I also hope to begin the final stage this week if the ‘work on project’ of the 3rd & 4th stages won’t take much time. 
 
 To overcome some of the challenges I faced (explained in ‘My experience this week’), I will be solving the ‘Optional problems to solve’ which is in each practice part of each section. It will increase my confidence in solving difficult problems and will definitely help me in the future stages of this project. 
+
+This week I completed stages 3/5: Distances and 4/5: Heavy duty. In 3/5: Distances module I had to convert different units of length like feet, inches, yards, centimeters and others to meters. The complete stage was easy to solve and final project code logic was also simple to crack but the only thing challenging to me was that user can input the units in any of their form like if it is Meter then user can input like “m”,”meter”, or “meters”. In 4/5: Heavy duty module the project code was moved to more advance form compared to previous stage. Now, with length I had to convert other physical units also like weight (which included grams, pounds, kilograms, milligrams, ounces etc). 
+After completing these stages or reaching to the end of this course, I felt like it was fun doing these stages. Although, it feels challenging every time whenever you stuck but reaching to the end of the project with implementing whatever I had learnt till yet in a single project is one of the great experience for me. 
+
+
+
+
+
+
+
+
 
