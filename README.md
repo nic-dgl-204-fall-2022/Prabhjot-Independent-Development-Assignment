@@ -79,6 +79,12 @@ To overcome some of the challenges I faced (explained in ‘My experience this w
 This week I completed stages 3/5: Distances and 4/5: Heavy duty. In 3/5: Distances module I had to convert different units of length like feet, inches, yards, centimeters and others to meters. The complete stage was easy to solve and final project code logic was also simple to crack but the only thing challenging to me was that user can input the units in any of their form like if it is Meter then user can input like “m”,”meter”, or “meters”. In 4/5: Heavy duty module the project code was moved to more advance form compared to previous stage. Now, with length I had to convert other physical units also like weight (which included grams, pounds, kilograms, milligrams, ounces etc). 
 After completing these stages or reaching to the end of this course, I felt like it was fun doing these stages. Although, it feels challenging every time whenever you stuck but reaching to the end of the project with implementing whatever I had learnt till yet in a single project is one of the great experience for me. 
 
+The last stage of this project or the final working of the project required me to add the temperature feature in it by which user will be able to convert the temperature units as well. The main objective was to convert the temperature units Kelvin, Celsius and Fahrenheit in each other or it depends on the user that from what unit – to what unit user want the conversion. 
+
+After completing the stage 5 or the complete project I realized that how important and valuable the project based learning is. Before developing this project I am used to the conventional learning process in which you have to first go through all the documentation and learn or code all of the things in a subject. But in project based learning, the process is much simpler and fun because in it you whenever you learn things you simply learning it to implement in the project so you can see your progress in more accurate form. 
+This project really helped me to understand where I stand in Kotlin development and how much more I’ve to put in to improve in this skill. This week’s process of completing stages each week to reach the final goal seemed like a journey which included all up and downs. 
+
+
 
 
 
