@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="32sp"
+        android:text="Enter what you want to convert:"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/userInput_et"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="24sp"
+        android:hint="24 US dollars to CAD"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        />
+
+    <Button
+        android:id="@+id/convertButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Convert"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:layout_marginHorizontal="16dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:textSize="32sp"
+        android:text="Your Result"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+</LinearLayout>
