@@ -85,9 +85,13 @@ After completing the stage 5 or the complete project I realized that how importa
 This project really helped me to understand where I stand in Kotlin development and how much more I’ve to put in to improve in this skill. This week’s process of completing stages each week to reach the final goal seemed like a journey which included all up and downs. 
 
 
+# Reflection for Extension Project
 
+I chose the extension project for my jetbrains assignement is Currency Converter project which was also one of the ideas I selected for the future development of the projects using Jetbrains Project. 
 
+In this project I tried taking the Unit Converter project to the next level by adding the feature of currency conversion and I also tried hands on the android studio to develop an android app using the backend code. For currency conversion, first of all I required the currency exchange rates data to perform the conversion for the currencies. So, I took US dollar for the factorisation of other currencies because US dollar is the most used and powerful currencies in the world. The currency rates changes day by day with the increaments and decrements of about 0 pointers so I used this [US Dollar Exchange Rates Table](https://www.x-rates.com/table/?from=USD&amount=1) which helped me in the factorisation for different country's currencies. 
 
+Moreover, I feteched everything in an android app. First of all I coded the xml part of it which is used to develop the user Interface for an app. The User interface section maninly contained a button, two textviews and one edittext to enter the user Input. I ended up with a beautiful user Interface which was sufficient to assist and help the user to convert their units into others. Although, I didn't used the latest technologies of Andorid Studio like JetPack Compose, new libraries and dependencies but I tried my best understand and develop a basic and working android app for my project. I took help from the [official android documentation](https://developer.android.com/docs).
 
 
 
